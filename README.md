@@ -8,19 +8,19 @@ A modern, user-friendly application for viewing and editing PSD (Adobe Photoshop
 
 # 📁 Project Structure
 
-'''bash
+```bash
 psd_layer_editor/
 ├── main.py
 ├── editor/
-│ ├── init .py
-│ └── psd_editor.py
+│   ├── __init__.py
+│   └── psd_editor.py
 ├── gui/
-│ ├── init .py
-│ └── main_window.py
+│   ├── __init__.py
+│   └── main_window.py
 ├── plugins/
-│ ├── init .py
-│ ├── plugin_manager.py
-│ └── sample_plugin.py
+│   ├── __init__.py
+│   ├── plugin_manager.py
+│   └── sample_plugin.py
 ├── requirements.txt
 └── README.md
 
