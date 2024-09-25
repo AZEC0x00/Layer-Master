@@ -61,11 +61,9 @@ psd_layer_editor/
 - **Python** 3.6+
 
 Install required packages:
-```bash
 pip install -r requirements.txt
 
 Running the Application
-'''bash
 python main.py
 
 🛠 Usage
