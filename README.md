@@ -1,13 +1,14 @@
 # Layer-Master
 PSD Layer Editor V1
 A modern, user-friendly application for viewing and editing PSD (Adobe Photoshop) files, built with a clean architecture and designed for extensibility through plugins.
-This is my attempt to create a simple but extensible psd file editor. 
+### This is my attempt to create a simple but extensible psd file editor. 
 
 ![master](https://github.com/user-attachments/assets/d689aa83-b6b7-4775-b2ca-ac212ce882f8)
 
 
 # 📁 Project Structure
 
+'''bash
 psd_layer_editor/
 ├── main.py
 ├── editor/
